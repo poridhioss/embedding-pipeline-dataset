@@ -1,0 +1,101 @@
+﻿order_id,tech_id,performance_score,text
+369852,456789,97,Urgent: Server Down. Main application server (SRV-APP-01) is unresponsive. Users cannot log in. Needs immediate investigation and repair.
+369853,456790,83,Install New Office Printer. Set up and configure the new HP LaserJet printer in the marketing department office. Connect to network and install drivers for relevant users.
+369854,456791,83,Fix Leaking Pipe in Kitchenette. Water leak reported under the sink in the 2nd-floor kitchenette. Please repair the pipe ASAP to prevent water damage.
+369855,456792,95,Quarterly HVAC Maintenance. Perform scheduled preventive maintenance on the rooftop HVAC units as per the Q2 schedule. Check filters belts and coolant levels.
+369856,456793,51,Laptop Screen Cracked. User dropped their Dell Latitude laptop. The screen is cracked and unusable. Requires screen replacement.
+369857,456794,55,Upgrade Firewall Software. Plan and execute the firmware upgrade for the main corporate firewall during the next maintenance window (Saturday night).
+369858,456795,59,Office Door Lock Jammed. The lock on the main entrance door (East Wing) is jammed. Cannot lock the door properly. Needs repair urgently for security reasons.
+369859,456796,90,New Employee IT Setup. Prepare workstation create accounts (AD Email VPN) and configure laptop for new hire starting next Monday.
+369860,456797,61,WiFi Network Outage - Floor 3. Users on the 3rd floor are reporting no WiFi connectivity. Access points seem to be down. Investigate and restore service.
+369861,456798,88,Annual Fire Extinguisher Inspection. Conduct the mandatory annual inspection of all fire extinguishers throughout the building. Check pressure gauges and certification tags.
+369862,456799,77,Broken Chair in Meeting Room B. One of the chairs in Meeting Room B has a broken leg. It's unsafe to use. Please repair or replace.
+369863,456800,99,Install Security Camera - Parking Lot. Install a new security camera (Model XYZ) overlooking the west side of the employee parking lot. Connect to the existing NVR system.
+369864,456801,87,Power Failure in Warehouse Section C. Complete loss of power in Section C of the warehouse. Check circuit breakers and main panel. Affecting packing stations. Needs immediate fix.
+369865,456802,54,Server Rack Cable Management. Tidy up network cabling in server rack #3. Improve airflow and organization. Scheduled task for low-traffic period.
+369866,456803,80,Database Connection Error. Application reporting intermittent 'cannot connect to database' errors. Investigate database server logs and network connectivity. Service is degraded.
+369867,456804,54,Deploy New CRM Software Update. Schedule and deploy the v2.5 update for the Sales CRM system during off-peak hours next Tuesday.
+369868,456805,91,Repair Damaged Network Port - Office 305. Network port J3-15 in Office 305 is physically damaged and not providing a connection. Replace wall plate/port.
+369869,456806,69,Monthly Backup System Check. Perform the routine monthly check of the enterprise backup system. Verify job completion logs and test a sample restore.
+369870,456807,74,Replace Faulty Fluorescent Light - Hallway B. The fluorescent light fixture near elevator B is flickering constantly and needs replacement.
+369871,456808,63,Configure VPN Access for Remote User. Set up and provide credentials for VPN access for remote employee Jane Doe.
+369872,456809,82,Urgent: Main Website Unavailable. The primary corporate website (www.example.com) is returning a 503 error. Investigate web server and load balancer immediately.
+369873,456810,77,Install Additional RAM in DEV-SQL-02. Add 64GB of RAM to the development SQL server (DEV-SQL-02) as per approved request #1872.
+369874,456811,58,Fix Broken Window Pane - Cafeteria. A window pane in the main cafeteria was accidentally broken. Needs boarding up temporarily and then replacement.
+369875,456812,70,Audit User Permissions - Finance Share. Conduct a quarterly audit of user access permissions on the Finance department's network share (\\SERVER\\Finance).
+369876,456813,51,Email Server Rejecting External Mail. Our email server (mail.example.com) appears to be rejecting some incoming external emails. Check configuration and blacklists.
+369877,456814,88,Setup Projector in Conference Room A. Install and configure the new ceiling-mounted projector in Conference Room A. Test connectivity with room PC.
+369878,456815,75,"Air Conditioning Not Cooling - Floor 5. Multiple reports that the AC on the 5th floor south wing	is blowing warm air. Investigate AC unit #4."
+369879,456816,71,Routine Pest Control Service. Scheduled quarterly pest control service for the entire building premises. Provide access to technicians.
+369880,456817,55,Computer Virus Detected - User PC_JSMITH. Antivirus alerted on PC_JSMITH workstation. Machine has been isolated. Needs disinfection and analysis.
+369881,456818,78,Create New Shared Mailbox - Support Team. Set up a new shared mailbox 'support@example.com' for the customer support team with appropriate permissions.
+369882,456819,86,Printer Offline - Printer_ACCT_01. The main accounting printer (Printer_ACCT_01) is showing as offline and not printing jobs. Check connectivity and driver status.
+369883,456820,71,Plan Network Upgrade for Building C. Develop a project plan and budget for upgrading the network infrastructure (switches cabling) in Building C next fiscal year.
+369884,456821,55,Repair Malfunctioning Card Access Reader - Entrance D. The card access reader at Entrance D is not reading badges consistently. Repair or replace the reader unit.
+369885,456822,99,Perform Annual Server Room Cleaning. Schedule and perform the annual deep cleaning of the main server room (DC-01). Ensure proper shutdown/startup procedures for sensitive equipment if needed.
+369886,456823,81,VoIP Phone No Dial Tone - Ext 1234. User at extension 1234 reports no dial tone on their VoIP phone. Check phone configuration and network connection.
+369887,456824,65,Install OS Updates on Test Servers. Apply the latest OS security patches and updates to all servers in the Test/Dev environment during the maintenance window.
+369888,456825,55,Fix Water Cooler Leak - Break Room Floor 4. The water cooler unit in the 4th-floor break room is leaking onto the floor. Turn off water supply and repair/replace unit.
+369889,456826,51,Configure New Firewall Rule - Allow SaaS App Access. Add a new rule to the corporate firewall to allow outbound access to *.newsaasapp.com on port 443 for the Marketing group.
+369890,456827,63,Laptop Battery Not Charging - User LPT_KWHITE. User Karen White reports her assigned laptop (LPT_KWHITE) battery is no longer charging. Test with a different charger/battery if possible  replace faulty component.
+369891,456828,93,Conduct Semi-Annual Disaster Recovery Test. Execute the planned semi-annual Disaster Recovery test for critical systems (Tier 1 applications) as per the DR plan.
+369892,456829,52,Router experiencing high packet loss - RTR-CORE-02. Core router RTR-CORE-02 is showing high packet loss during peak hours. Investigate interface errors CPU load and potential bottlenecks.
+369893,456830,66,Setup new wireless network for guests. Configure a separate guest WiFi network (SSID: CompanyGuest) with appropriate security settings and bandwidth limitations.
+369894,456831,82,Projector bulb burnt out - Meeting Room C. The projector in Meeting Room C is displaying a 'replace bulb' message and image is very dim. Replace the projector bulb.
+369895,456832,87,Update Company Phone Directory. Update the internal company phone directory list based on recent hires and departures. Publish updated list on the intranet.
+369896,456833,64,SAN Storage Array reporting disk fault - Array B. Disk 7 Storage Area Network (SAN) Array B is reporting a predictive failure warning for Disk 7 in RAID group 3. Replace the disk proactively.
+369897,456834,80,Install new monitoring agent on Linux servers. Deploy the updated monitoring agent (v3.2) to all production Linux servers via the central management console.
+369898,456835,70,Security Camera feed frozen - Cam_Parking_04. The video feed for security camera Cam_Parking_04 is frozen. Check camera power network connectivity and NVR status.
+369899,456836,66,Create user accounts for summer interns. Create temporary Active Directory and email accounts for the 5 summer interns starting June 1st. Assign to appropriate groups.
+369900,456837,66,Workstation fails to boot - PC_MLEWIS. User Mark Lewis's workstation (PC_MLEWIS) is failing to boot stuck at BIOS screen. Investigate hardware issue (RAM HDD Motherboard).
+369901,456838,60,Perform quarterly vulnerability scan. Conduct the scheduled quarterly internal and external vulnerability scans using Nessus. Report findings to the security team.
+369902,456839,51,Elevator button not working - Elevator A. Floor 3 Call Button The 'Call Up' button for Elevator A on the 3rd floor is not registering when pressed. Needs inspection and repair by elevator technician.
+369903,456840,91,Migrate file share data to new server. Plan and execute the migration of the 'Marketing' file share from \\OLDSERVER\\Marketing to \\NEWSERVER\\Marketing. Schedule downtime and notify users.
+369904,456841,66,Main entrance automatic door sensor malfunction. The automatic sliding door at the main entrance is sometimes not opening or closing correctly. Check sensors and motor.
+369905,456842,98,Renew SSL certificate for vpn.example.com. The SSL certificate for the VPN gateway (vpn.example.com) expires in 3 weeks. Procure and install the renewed certificate.
+369906,456843,71,UPS Battery Fault Alarm - Rack 5. The Uninterruptible Power Supply (UPS) unit in server rack 5 is reporting a battery fault alarm. Test and replace batteries as needed.
+369907,456844,67,Deploy updated anti-virus definitions. Push the latest anti-virus signature definitions to all company workstations and servers.
+369908,456845,76,Toilet constantly running - Mens Restroom Floor 2. A toilet in the 2nd-floor men's restroom is continuously running water. Repair the flush mechanism.
+369909,456846,81,Install new data analysis software - Analyst Team. Install 'DataCruncher Pro' software on the workstations of the 3 data analysts in the Finance team. Requires admin rights.
+369910,456847,51,Network switch port flapping - SW-IDF3-01 Port 23. Port 23 on switch SW-IDF3-01 (serving Office 315) is rapidly cycling between up and down states (flapping). Investigate connected device and cable.
+369911,456848,67,Review and update firewall security policies. Conduct the semi-annual review of all firewall security policies. Remove outdated rules and ensure compliance with security standards.
+369912,456849,78,Application crash with error code 0xC0000005 - AppX v1.2. Users reporting that Application 'AppX v1.2' is crashing frequently with access violation error 0xC0000005. Investigate application logs and potential conflicts.
+369913,456850,68,Setup new hire workstation - Sarah Chen. Prepare and configure a standard workstation (laptop monitor docking station) for new hire Sarah Chen starting next week in HR.
+369914,456851,74,Emergency Exit sign light burnt out - Stairwell B. The light bulb in the Emergency Exit sign at the top of Stairwell B is burnt out. Replace bulb immediately for safety compliance.
+369915,456852,76,Configure automated report generation - Sales System. Set up the Sales system to automatically generate and email the 'Weekly Sales Summary' report every Monday morning.
+369916,456853,90,Mouse not working - User PC_DBROWN. User David Brown reports their USB mouse is not being detected by their workstation (PC_DBROWN). Test with a different mouse/port replace if faulty.
+369917,456854,71,Perform data backup integrity check. Conduct a thorough integrity check on the latest full backup set for the primary database server (PROD-DB-01).
+369918,456855,71,Building intercom system malfunction - No audio from Entrance A. The intercom at Entrance A allows buzzing in but no audio is being transmitted or received. Check wiring and intercom unit.
+369919,456856,55,Upgrade RAM on VMWare Host ESXI-04. Schedule downtime and install additional 128GB RAM into VMWare host server ESXI-04 to accommodate new VMs.
+369920,456857,85,Blank screen on digital signage display - Lobby. The large digital signage display screen in the main lobby is blank (no signal). Check player device cables and display power.
+369921,456858,52,"Decommission old web server - OLDWEB-01. Power down disconnect	and prepare the old web server OLDWEB-01 for physical removal and disposal according to asset retirement procedures."
+369922,456859,82,HVAC unit making loud banging noise - Unit 7 Rooftop. HVAC unit #7 on the rooftop is making a loud intermittent banging noise. Investigate potential fan or motor issue.
+369923,456860,95,Create documentation for new backup procedure. Write detailed step-by-step documentation for the recently implemented cloud backup procedure. Store on internal knowledge base.
+369924,456861,71,Login failures for VPN users - RADIUS server issue?. Multiple remote users reporting failed logins to VPN since 10:00 AM. Suspect issue with RADIUS authentication server. Investigate logs.
+369925,456862,99,Install new whiteboards in Training Room 2. Mount two new 8x4 foot whiteboards on the walls in Training Room 2 as per facilities plan.
+369926,456863,100,Coffee machine leaking water - Break Room Floor 1. The main coffee machine in the 1st-floor break room has water pooling underneath it. Investigate source of leak and repair.
+369927,456864,89,Optimize SQL query performance - Report XYZ. The 'XYZ' report in the finance application is running very slowly. Analyze the underlying SQL query and optimize indexes or query structure.
+369928,456865,54,Cannot print to network printer PRT-MKTG-CLR - Driver Issue?. Users in Marketing cannot print to PRT-MKTG-CLR. Jobs are stuck in queue. Suspect print server or driver issue. Restart spooler check drivers.
+369929,456866,80,Patch network cables in IDF Closet Floor 5. Re-patch network connections in the 5th-floor IDF closet according to the updated network diagram for office moves.
+369930,456867,90,Critical Security Alert: Potential Ransomware Activity Detected. Security monitoring system (SIEM) triggered a high-priority alert for potential ransomware activity on server FILESRV-03. Isolate server and initiate incident response NOW.
+369931,456868,90,Setup new department file share - Engineering. Create a new network file share (\\CORPSERVER\\Engineering) with appropriate folder structure and AD group permissions for the Engineering department.
+369932,456869,81,Replace worn keyboard - User PC_AGREEN. User Alice Green's keyboard has several keys that are sticking or non-functional. Replace with a standard new keyboard.
+369933,456870,77,Conduct user training session - New CRM Features. Schedule and conduct a training session for the Sales team on the new features introduced in the latest CRM update (v2.5).
+369934,456871,78,Water stain on ceiling tile - Office 410. A water stain has appeared on a ceiling tile in Office 410. Investigate potential leak from floor above or roof leak.
+369935,456872,83,Migrate email mailboxes to Office 365 - Phase 1 (IT Dept). Begin Phase 1 of the email migration project. Migrate mailboxes for all IT department users to Microsoft Office 365.
+369936,456873,75,Server rack fan tray failure - Rack 2. The main fan tray unit in server rack 2 is reporting a failure; fans not spinning. Replace the fan tray unit to prevent overheating.
+369937,456874,69,Install project management software license server. Set up a new internal server to host the licenses for the 'ProjectPlanner Pro' software used by the PMO team.
+369938,456875,63,Scanner not detected by PC - Reception Desk. The document scanner connected to the reception desk PC is not being detected. Check USB connection power and drivers. Reinstall drivers if necessary.
+369939,456876,75,Develop disaster recovery plan for new App Z. Create a comprehensive Disaster Recovery (DR) plan document for the newly deployed critical 'App Z' application.
+369940,456877,99,Basement sump pump failure alarm. The building monitoring system is reporting an alarm for the basement sump pump failure. Investigate pump status and potential flooding risk immediately.
+369941,456878,55,Configure log shipping for SQL database PROD-DB-CRM. Set up SQL Server log shipping from the production CRM database (PROD-DB-CRM) to the warm standby server (STBY-DB-CRM) for disaster recovery.
+369942,456879,50,Repair damaged drywall - Hallway near Room 215. There is a hole in the drywall in the 2nd-floor hallway near Room 215 from equipment move. Patch and paint the damaged area.
+369943,456880,56,Renew domain name registration - example.com. The main company domain name 'example.com' is due for renewal next month. Process the renewal payment with the domain registrar.
+369944,456881,73,Wireless access point offline - AP-Floor2-West. Wireless Access Point 'AP-Floor2-West' is showing offline in the controller dashboard. Check power (PoE) and network connection to the AP.
+369945,456882,70,Install ergonomic keyboard trays - Accounting Team. Install under-desk ergonomic keyboard trays for the 5 workstations in the Accounting department as per ergonomic assessment recommendation.
+369946,456883,77,Sudden spike in network latency - Core Switch Investigation. Observing significantly increased network latency across the core network infrastructure since 1:00 PM. Investigate core switches (CPU traffic errors).
+369947,456884,68,Create virtual machine template - Windows Server 2022. Build and configure a standardized VMWare virtual machine template for Windows Server 2022 with baseline security settings and tools pre-installed.
+369948,456885,76,Replace flickering monitor - User PC_JDOE. User John Doe reports their primary monitor is flickering intermittently causing eye strain. Test monitor replace if defective.
+369949,456886,79,Plan physical server consolidation project. Develop a plan to consolidate 10 older physical servers onto 3 new VMWare host servers to save power and rack space.
+369950,456887,91,Generator failed self-test - Error Code G55. The building's backup generator failed its weekly automated self-test reporting error code G55. Schedule technician visit for inspection and repair.
+369951,456888,57,Update asset management database. Update the IT asset management database with information on new hardware received and old hardware disposed of in the last month.
